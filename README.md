@@ -25,6 +25,7 @@ Welcome to **Kitx**, the most advanced virtual trading platform designed specifi
   <img src="4.jpg" width="220" />
   <img src="5.jpg" width="220" />
   <img src="6.jpg" width="220" />
+  <img src="Screenshot_2026-03-18-09-32-32-510_com.kitx.kitx.jpg" width="200" />
 </p>
 
 ---
