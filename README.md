@@ -19,6 +19,7 @@ Welcome to **Kitx**, the most advanced virtual trading platform designed specifi
 *(Check out the interface below)*
 
 <p align="center">
+  <img src="yy.webp" class="ss-slide active object-contain w-full h-full drop-shadow-2xl" alt="KitX SS 1">
   <img src="1.jpg" width="220" />
   <img src="2.jpg" width="220" />
   <img src="3.jpg" width="220" />
